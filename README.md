@@ -1,4 +1,9 @@
-### Hi there 👋
+Building @ [CommandBar](https://www.commandbar.com)
+
+Hacking @ [KeyCombiner](https://keycombiner.com)
+
+
+
 
 <!--
 **tkainrad/tkainrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
