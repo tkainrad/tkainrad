@@ -1,4 +1,4 @@
-Building @ [CommandBar](https://www.commandbar.com)
+Building @ [Amplitude](https://amplitude.com/)
 
 Hacking @ [KeyCombiner](https://keycombiner.com)
 
